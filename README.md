@@ -1,6 +1,8 @@
 # SCAN-Learn
 This is an experiment of compositional learning and zero-shot generalization on the [SCAN task](https://github.com/brendenlake/SCAN) in [*Still not systematic after all these years: On the compositional skills of sequence-to-sequence recurrent networks*.](https://arxiv.org/abs/1711.00350) Lake, B. M. and Baroni, M. (2017). The SCAN tasks were inspired by the CommAI environment, which is the origin of the acronym (Simplified versions of the CommAI Navigation tasks).  
 
+This is submitted as part of requirement to class Computational Cognitive Modeling (https://github.com/brendenlake/CCM-site ). 
+
 ## Requirements
 - python 3.6
 - pytorch 0.4
